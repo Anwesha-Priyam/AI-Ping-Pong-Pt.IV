@@ -50,7 +50,7 @@ function draw(){
   {
     fill("#CBDCF7");
     stroke("#CBDCF7");
-    circle(rightWristX, leftWristY, 20);
+    circle(rightWristX, rightWristY, 20);
   }
  background(0); 
 
